@@ -1,0 +1,4 @@
+* Mount Kilimanjaro (/ˌkɪlɪmənˈdʒɑːroʊ/) is a dormant volcano in Tanzania. It has three volcanic cones: Kibo, Mawenzi, and Shira. It is the highest mountain in Africa and the highest single free-standing mountain above sea level in the world: 5,895 metres (19,341 ft) above sea level and about 4,900 metres (16,100 ft) above its plateau base. It is the highest volcano in Africa and the Eastern Hemisphere.
+** [[https://en.wikipedia.org/wiki/Mount_Kilimanjaro][Mount Kilimanjaro]]
+* ![Mt. Kilimanjaro]([[https://images.unsplash.com/photo-1489392191049-fc10c97e64b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80][https://i.imgur.com/1sBGB4d.gif]])
+* [[pengx17/logseq-publish]]
