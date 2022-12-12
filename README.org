@@ -1,4 +1,4 @@
 * [[https://yosevu.github.io/working-notes/#/page/About%20these%20notes][About these notes]]
 
-These are my working notes. Their purpose is to capture and connect the things that I work on from day to day for future reference.
-
+These are my working notes. Their purpose is to capture, connect, and build on
+what you I over time.
