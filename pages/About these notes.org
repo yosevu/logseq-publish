@@ -1,0 +1,2 @@
+* These are my working notes. Their purpose is to capture and connect the things that I work on from day to day for future reference.
+* The source code for these notes and this site is at [[https://github.com/yosevu/working-notes][https://github.com/yosevu/working-notes]].
