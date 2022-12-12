@@ -1,0 +1,2 @@
+* This site is build with [[https://logseq.com/][Logseq]] and [[https://github.com/pengx17/logseq-publish][logseq-publish]].
+* The source code and notes are at [[https://github.com/yosevu/working-notes][https://github.com/yosevu/working-notes]].
