@@ -1,3 +1,0 @@
-#+ALIAS: grow what I know over time
-
-* Knowledge grows over time. What you learn connects to and changes what you already know. What you already know shapes and influences what you learn. Andy Matuschak uses the word /accrete/ to describe knowledge work in his note, [[https://notes.andymatuschak.org/Knowledge_work_should_accrete][Knowledge work should accrete]], which evokes the conceptual metaphor [[KNOWLEDGE IS ALIVE]] for me. Knowledge grows and develops along with the person or people who cultivate it.

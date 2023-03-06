@@ -1,0 +1,1 @@
+- These are my working notes based on principles from the Zettelkasten writing system. These notes help me connect and [[grow what I know over time]]. They leverage Logseq to support this process by making it more effective and efficient. See the [[Index]] for selected notes to start from.
