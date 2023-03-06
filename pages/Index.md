@@ -1,3 +1,4 @@
 - [[About these notes]]
 - [[About this site]]
 - [[Knowledge grows over time]]
+- [[Pages]]
