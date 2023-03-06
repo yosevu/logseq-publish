@@ -320,4 +320,4 @@
 
  :publishing/all-pages-public? true
  :journal/page-title-format "yyyy-MM-dd"
- :preferred-format :org}
+ :preferred-format :markdown}
