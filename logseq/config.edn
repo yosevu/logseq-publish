@@ -56,7 +56,8 @@
  ;; https://github.com/logseq/awesome-logseq#css-themes
  ;; Example:
  ;; :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/dracula/logseq@master/custom.css');"
-
+ :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/sansui233/logseq-bonofix-theme/custom.css');"
+ 
  ;; Set Bullet indentation when exporting
  ;; default option: tab
  ;; Possible options are for `:sidebar` are
